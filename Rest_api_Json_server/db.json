@@ -1,0 +1,656 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Conrad",
+            "last_name": "Laskey",
+            "email": "claskey0@weebly.com",
+            "password": "4TqZBeJdvn"
+        },
+        {
+            "id": 2,
+            "first_name": "Ava",
+            "last_name": "Morrison",
+            "email": "ava.morrison@example.com",
+            "password": "Ava1234!"
+        },
+        {
+            "id": 3,
+            "first_name": "Liam",
+            "last_name": "Smith",
+            "email": "liam.smith@example.com",
+            "password": "Liam5678!"
+        },
+        {
+            "id": 4,
+            "first_name": "Sophia",
+            "last_name": "Johnson",
+            "email": "sophia.johnson@example.com",
+            "password": "Sophia91011!"
+        },
+        {
+            "id": 5,
+            "first_name": "Noah",
+            "last_name": "Williams",
+            "email": "noah.williams@example.com",
+            "password": "Noah123!"
+        },
+        {
+            "id": 6,
+            "first_name": "Isabella",
+            "last_name": "Jones",
+            "email": "isabella.jones@example.com",
+            "password": "Isabella456!"
+        },
+        {
+            "id": 7,
+            "first_name": "Mason",
+            "last_name": "Brown",
+            "email": "mason.brown@example.com",
+            "password": "Mason789!"
+        },
+        {
+            "id": 8,
+            "first_name": "Mia",
+            "last_name": "Davis",
+            "email": "mia.davis@example.com",
+            "password": "Mia111!"
+        },
+        {
+            "id": 9,
+            "first_name": "Ethan",
+            "last_name": "Garcia",
+            "email": "ethan.garcia@example.com",
+            "password": "Ethan222!"
+        },
+        {
+            "id": 10,
+            "first_name": "Emily",
+            "last_name": "Rodriguez",
+            "email": "emily.rodriguez@example.com",
+            "password": "Emily333!"
+        },
+        {
+            "id": 11,
+            "first_name": "James",
+            "last_name": "Martinez",
+            "email": "james.martinez@example.com",
+            "password": "James444!"
+        },
+        {
+            "id": 12,
+            "first_name": "Charlotte",
+            "last_name": "Hernandez",
+            "email": "charlotte.hernandez@example.com",
+            "password": "Charlotte555!"
+        },
+        {
+            "id": 13,
+            "first_name": "Oliver",
+            "last_name": "Lopez",
+            "email": "oliver.lopez@example.com",
+            "password": "Oliver666!"
+        },
+        {
+            "id": 14,
+            "first_name": "Avery",
+            "last_name": "Gonzalez",
+            "email": "avery.gonzalez@example.com",
+            "password": "Avery777!"
+        },
+        {
+            "id": 15,
+            "first_name": "Lucas",
+            "last_name": "Wilson",
+            "email": "lucas.wilson@example.com",
+            "password": "Lucas888!"
+        },
+        {
+            "id": 16,
+            "first_name": "Amelia",
+            "last_name": "Anderson",
+            "email": "amelia.anderson@example.com",
+            "password": "Amelia999!"
+        },
+        {
+            "id": 17,
+            "first_name": "Henry",
+            "last_name": "Thomas",
+            "email": "henry.thomas@example.com",
+            "password": "Henry1010!"
+        },
+        {
+            "id": 18,
+            "first_name": "Harper",
+            "last_name": "Taylor",
+            "email": "harper.taylor@example.com",
+            "password": "Harper1212!"
+        },
+        {
+            "id": 19,
+            "first_name": "Elijah",
+            "last_name": "Moore",
+            "email": "elijah.moore@example.com",
+            "password": "Elijah1313!"
+        },
+        {
+            "id": 20,
+            "first_name": "Sofia",
+            "last_name": "Jackson",
+            "email": "sofia.jackson@example.com",
+            "password": "Sofia1414!"
+        },
+        {
+            "id": 21,
+            "first_name": "Jackson",
+            "last_name": "White",
+            "email": "jackson.white@example.com",
+            "password": "Jackson1515!"
+        },
+        {
+            "id": 22,
+            "first_name": "Scarlett",
+            "last_name": "Harris",
+            "email": "scarlett.harris@example.com",
+            "password": "Scarlett1616!"
+        },
+        {
+            "id": 23,
+            "first_name": "Sebastian",
+            "last_name": "Clark",
+            "email": "sebastian.clark@example.com",
+            "password": "Sebastian1717!"
+        },
+        {
+            "id": 24,
+            "first_name": "Grace",
+            "last_name": "Lewis",
+            "email": "grace.lewis@example.com",
+            "password": "Grace1818!"
+        },
+        {
+            "id": 25,
+            "first_name": "Aiden",
+            "last_name": "Robinson",
+            "email": "aiden.robinson@example.com",
+            "password": "Aiden1919!"
+        },
+        {
+            "id": 26,
+            "first_name": "Victoria",
+            "last_name": "Walker",
+            "email": "victoria.walker@example.com",
+            "password": "Victoria2020!"
+        },
+        {
+            "id": 27,
+            "first_name": "Matthew",
+            "last_name": "Hall",
+            "email": "matthew.hall@example.com",
+            "password": "Matthew2121!"
+        },
+        {
+            "id": 28,
+            "first_name": "Lily",
+            "last_name": "Allen",
+            "email": "lily.allen@example.com",
+            "password": "Lily2222!"
+        },
+        {
+            "id": 29,
+            "first_name": "Gabriel",
+            "last_name": "Young",
+            "email": "gabriel.young@example.com",
+            "password": "Gabriel2323!"
+        },
+        {
+            "id": 30,
+            "first_name": "Zoe",
+            "last_name": "Hernandez",
+            "email": "zoe.hernandez@example.com",
+            "password": "Zoe2424!"
+        },
+        {
+            "id": 31,
+            "first_name": "Ryan",
+            "last_name": "King",
+            "email": "ryan.king@example.com",
+            "password": "Ryan2525!"
+        },
+        {
+            "id": 32,
+            "first_name": "Natalie",
+            "last_name": "Wright",
+            "email": "natalie.wright@example.com",
+            "password": "Natalie2626!"
+        },
+        {
+            "id": 33,
+            "first_name": "Isaac",
+            "last_name": "Scott",
+            "email": "isaac.scott@example.com",
+            "password": "Isaac2727!"
+        },
+        {
+            "id": 34,
+            "first_name": "Samantha",
+            "last_name": "Torres",
+            "email": "samantha.torres@example.com",
+            "password": "Samantha2828!"
+        },
+        {
+            "id": 35,
+            "first_name": "Wyatt",
+            "last_name": "Nguyen",
+            "email": "wyatt.nguyen@example.com",
+            "password": "Wyatt2929!"
+        },
+        {
+            "id": 36,
+            "first_name": "Chloe",
+            "last_name": "Hill",
+            "email": "chloe.hill@example.com",
+            "password": "Chloe3030!"
+        },
+        {
+            "id": 37,
+            "first_name": "Owen",
+            "last_name": "Flores",
+            "email": "owen.flores@example.com",
+            "password": "Owen3131!"
+        },
+        {
+            "id": 38,
+            "first_name": "Ariana",
+            "last_name": "Rivera",
+            "email": "ariana.rivera@example.com",
+            "password": "Ariana3232!"
+        },
+        {
+            "id": 39,
+            "first_name": "Hunter",
+            "last_name": "Carter",
+            "email": "hunter.carter@example.com",
+            "password": "Hunter3333!"
+        },
+        {
+            "id": 40,
+            "first_name": "Maya",
+            "last_name": "Mitchell",
+            "email": "maya.mitchell@example.com",
+            "password": "Maya3434!"
+        },
+        {
+            "id": 41,
+            "first_name": "Jack",
+            "last_name": "Perez",
+            "email": "jack.perez@example.com",
+            "password": "Jack3535!"
+        },
+        {
+            "id": 42,
+            "first_name": "Layla",
+            "last_name": "Roberts",
+            "email": "layla.roberts@example.com",
+            "password": "Layla3636!"
+        },
+        {
+            "id": 43,
+            "first_name": "Daniel",
+            "last_name": "Turner",
+            "email": "daniel.turner@example.com",
+            "password": "Daniel3737!"
+        },
+        {
+            "id": 44,
+            "first_name": "Nora",
+            "last_name": "Phillips",
+            "email": "nora.phillips@example.com",
+            "password": "Nora3838!"
+        },
+        {
+            "id": 45,
+            "first_name": "Julian",
+            "last_name": "Campbell",
+            "email": "julian.campbell@example.com",
+            "password": "Julian3939!"
+        },
+        {
+            "id": 46,
+            "first_name": "Bella",
+            "last_name": "Parker",
+            "email": "bella.parker@example.com",
+            "password": "Bella4040!"
+        },
+        {
+            "id": 47,
+            "first_name": "Luke",
+            "last_name": "Evans",
+            "email": "luke.evans@example.com",
+            "password": "Luke4141!"
+        },
+        {
+            "id": 48,
+            "first_name": "Sadie",
+            "last_name": "Edwards",
+            "email": "sadie.edwards@example.com",
+            "password": "Sadie4242!"
+        },
+        {
+            "id": 49,
+            "first_name": "Colton",
+            "last_name": "Collins",
+            "email": "colton.collins@example.com",
+            "password": "Colton4343!"
+        },
+        {
+            "id": 50,
+            "first_name": "Hannah",
+            "last_name": "Stewart",
+            "email": "hannah.stewart@example.com",
+            "password": "Hannah4444!"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Shrimp - 150 - 250",
+            "price": 432.59,
+            "category": "Industrial"
+        },
+        {
+            "id": 2,
+            "name": "Salmon - Fresh",
+            "price": 785.99,
+            "category": "Seafood"
+        },
+        {
+            "id": 3,
+            "name": "Almonds - Raw",
+            "price": 210.00,
+            "category": "Nuts"
+        },
+        {
+            "id": 4,
+            "name": "Olive Oil - Extra Virgin",
+            "price": 122.75,
+            "category": "Condiments"
+        },
+        {
+            "id": 5,
+            "name": "Chicken Breast - Boneless",
+            "price": 280.50,
+            "category": "Meat"
+        },
+        {
+            "id": 6,
+            "name": "Pasta - Spaghetti",
+            "price": 45.99,
+            "category": "Grains"
+        },
+        {
+            "id": 7,
+            "name": "Beef - Ground",
+            "price": 350.25,
+            "category": "Meat"
+        },
+        {
+            "id": 8,
+            "name": "Broccoli - Fresh",
+            "price": 30.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 9,
+            "name": "Apple - Organic",
+            "price": 10.50,
+            "category": "Fruits"
+        },
+        {
+            "id": 10,
+            "name": "Eggs - Free Range",
+            "price": 60.00,
+            "category": "Dairy"
+        },
+        {
+            "id": 11,
+            "name": "Milk - Whole",
+            "price": 40.00,
+            "category": "Dairy"
+        },
+        {
+            "id": 12,
+            "name": "Yogurt - Greek",
+            "price": 25.00,
+            "category": "Dairy"
+        },
+        {
+            "id": 13,
+            "name": "Rice - Basmati",
+            "price": 35.00,
+            "category": "Grains"
+        },
+        {
+            "id": 14,
+            "name": "Sugar - Brown",
+            "price": 20.00,
+            "category": "Sweeteners"
+        },
+        {
+            "id": 15,
+            "name": "Salt - Sea",
+            "price": 15.00,
+            "category": "Condiments"
+        },
+        {
+            "id": 16,
+            "name": "Coffee - Ground",
+            "price": 100.00,
+            "category": "Beverages"
+        },
+        {
+            "id": 17,
+            "name": "Tea - Green",
+            "price": 75.00,
+            "category": "Beverages"
+        },
+        {
+            "id": 18,
+            "name": "Chocolate - Dark",
+            "price": 45.00,
+            "category": "Snacks"
+        },
+        {
+            "id": 19,
+            "name": "Potatoes - Fresh",
+            "price": 30.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 20,
+            "name": "Carrots - Organic",
+            "price": 25.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 21,
+            "name": "Tomato - Cherry",
+            "price": 40.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 22,
+            "name": "Lettuce - Romaine",
+            "price": 15.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 23,
+            "name": "Onions - Yellow",
+            "price": 20.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 24,
+            "name": "Garlic - Fresh",
+            "price": 10.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 25,
+            "name": "Cucumber - English",
+            "price": 25.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 26,
+            "name": "Peppers - Bell",
+            "price": 20.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 27,
+            "name": "Zucchini - Fresh",
+            "price": 30.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 28,
+            "name": "Spinach - Fresh",
+            "price": 25.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 29,
+            "name": "Kale - Fresh",
+            "price": 30.00,
+            "category": "Vegetables"
+        },
+        {
+            "id": 30,
+            "name": "Orange - Valencia",
+            "price": 15.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 31,
+            "name": "Banana - Organic",
+            "price": 12.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 32,
+            "name": "Grapes - Seedless",
+            "price": 25.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 33,
+            "name": "Peaches - Fresh",
+            "price": 30.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 34,
+            "name": "Strawberries - Fresh",
+            "price": 45.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 35,
+            "name": "Raspberries - Fresh",
+            "price": 60.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 36,
+            "name": "Blueberries - Fresh",
+            "price": 50.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 37,
+            "name": "Pineapple - Fresh",
+            "price": 45.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 38,
+            "name": "Mango - Fresh",
+            "price": 35.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 39,
+            "name": "Avocado - Hass",
+            "price": 30.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 40,
+            "name": "Coconut - Whole",
+            "price": 25.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 41,
+            "name": "Lemon - Fresh",
+            "price": 12.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 42,
+            "name": "Lime - Fresh",
+            "price": 12.00,
+            "category": "Fruits"
+        },
+        {
+            "id": 43,
+            "name": "Honey - Pure",
+            "price": 50.00,
+            "category": "Sweeteners"
+        },
+        {
+            "id": 44,
+            "name": "Maple Syrup",
+            "price": 100.00,
+            "category": "Sweeteners"
+        },
+        {
+            "id": 45,
+            "name": "Soy Sauce",
+            "price": 25.00,
+            "category": "Condiments"
+        },
+        {
+            "id": 46,
+            "name": "Hot Sauce",
+            "price": 20.00,
+            "category": "Condiments"
+        },
+        {
+            "id": 47,
+            "name": "BBQ Sauce",
+            "price": 30.00,
+            "category": "Condiments"
+        },
+        {
+            "id": 48,
+            "name": "Mustard - Yellow",
+            "price": 10.00,
+            "category": "Condiments"
+        },
+        {
+            "id": 49,
+            "name": "Ketchup - Classic",
+            "price": 15.00,
+            "category": "Condiments"
+        },
+        {
+            "id": 50,
+            "name": "Mayonnaise - Classic",
+            "price": 20.00,
+            "category": "Condiments"
+        }
+    ]
+}

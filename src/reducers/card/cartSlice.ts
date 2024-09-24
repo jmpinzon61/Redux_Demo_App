@@ -1,21 +1,22 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 
-interface Product {
-    id: number;
-    name: string;
-    price: number;
+export interface Product {
+  id: number;
+  name: string;
+  price: number;
+  category: string;
 }
 
-interface CartState {
-    totalCount: number;
-    productList: Product[];
+export interface CartState {
+  totalCount: number;
+  productList: Product[];
 }
 
 
 const initialState: CartState = {
-    totalCount: 0,
-    productList: [],
+  totalCount: 0,
+  productList: [],
 }
 
 
@@ -24,13 +25,18 @@ export const cartSlice = createSlice({
   initialState: initialState,
   reducers: {
     addProductToCart: (state, action) => {
-        state.productList = [...state.productList, action.payload];
-        state.totalCount += 1;
-    }
+      state.productList = [...state.productList, action.payload];
+      state.totalCount += 1;
+    },
+    removeProductFromCart: (state, action) => {
+      const productId = action.payload;
+      state.totalCount -= 1;
+      state.productList = state.productList.filter(product => product.id !== productId);
+    },
   }
 })
 
-// Action creators are generated for each case reducer function
-export const { addProductToCart } = cartSlice.actions
+// Action creators are generated for each case reducer function and exporting
+export const { addProductToCart, removeProductFromCart } = cartSlice.actions
 
 export default cartSlice.reducer
