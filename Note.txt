@@ -1,0 +1,12 @@
+------------------
+******************
+Ejecutar module json server en mi app de forma no global
+npx json-server --watch db.json
+
+********************
+odserva con la generación y levante de app json server como api back end
+
+**************************
+https://youtu.be/iWhMnpxuRYI?si=ipDCrKAJNXJ818it
+
+History of sistem unix operating
